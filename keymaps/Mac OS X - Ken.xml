@@ -105,6 +105,9 @@
   <action id="JumpToLastWindow">
     <keyboard-shortcut first-keystroke="meta back_quote" />
   </action>
+  <action id="Macro.insert assignment operator">
+    <keyboard-shortcut first-keystroke="alt minus" />
+  </action>
   <action id="MethodHierarchy" />
   <action id="MethodHierarchy.BaseOnThisType" />
   <action id="MoveElementRight" />
