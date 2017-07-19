@@ -173,4 +173,7 @@
   <action id="ThePlugin.ShowGlobalSettings" />
   <action id="Vcs.UpdateProject" />
   <action id="ViewSource" />
+  <action id="com.andrewbrookins.idea.wrap.WrapParagraphAction">
+    <keyboard-shortcut first-keystroke="meta alt slash" />
+  </action>
 </keymap>
