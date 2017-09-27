@@ -1,9 +1,9 @@
 <scheme name="Darcula-Ken" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="10" />
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
@@ -558,8 +558,7 @@
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="8c8c8c" />
-        <option name="BACKGROUND" value="3a3a3a" />
+        <option name="BACKGROUND" value="3a1f04" />
       </value>
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
