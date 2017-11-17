@@ -2,8 +2,6 @@
   <component name="libraryTable">
     <library name="/usr/bin/python">
       <CLASSES>
-        <root url="file:///Library/Python/2.7/site-packages/six-1.10.0-py2.7.egg" />
-        <root url="file:///Library/Python/2.7/site-packages/numpy-1.11.0-py2.7-macosx-10.10-intel.egg" />
         <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
         <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
         <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
@@ -16,8 +14,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file:///Library/Python/2.7/site-packages/six-1.10.0-py2.7.egg" />
-        <root url="file:///Library/Python/2.7/site-packages/numpy-1.11.0-py2.7-macosx-10.10-intel.egg" />
         <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
         <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
         <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
@@ -31,8 +27,6 @@
     </library>
     <library name="/usr/bin/python interpreter library">
       <CLASSES>
-        <root url="file:///Library/Python/2.7/site-packages/six-1.10.0-py2.7.egg" />
-        <root url="file:///Library/Python/2.7/site-packages/numpy-1.11.0-py2.7-macosx-10.10-intel.egg" />
         <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
         <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
         <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
@@ -45,8 +39,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file:///Library/Python/2.7/site-packages/six-1.10.0-py2.7.egg" />
-        <root url="file:///Library/Python/2.7/site-packages/numpy-1.11.0-py2.7-macosx-10.10-intel.egg" />
         <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
         <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
         <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
@@ -60,60 +52,13 @@
     </library>
     <library name="/usr/local/bin/python">
       <CLASSES>
-        <root url="file:///usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
-        <root url="file:///usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
-        <root url="file:///usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
-        <root url="file:///usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
-        <root url="file:///usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
-        <root url="file:///usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
         <root url="file:///usr/local/lib/python2.7/site-packages" />
-        <root url="file:///usr/local/lib/python2.7/site-packages/geos" />
-        <root url="file:///usr/local/Cellar/numpy/1.11.1/libexec/nose/lib/python2.7/site-packages" />
-        <root url="file:///Library/Python/2.7/site-packages/six-1.10.0-py2.7.egg" />
-        <root url="file:///Library/Python/2.7/site-packages/numpy-1.11.0-py2.7-macosx-10.10-intel.egg" />
         <root url="file:///Library/Python/2.7/site-packages" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file:///usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
-        <root url="file:///usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
-        <root url="file:///usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
-        <root url="file:///usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
-        <root url="file:///usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
-        <root url="file:///usr/local/Cellar/python/2.7.12/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
         <root url="file:///usr/local/lib/python2.7/site-packages" />
-        <root url="file:///usr/local/lib/python2.7/site-packages/geos" />
-        <root url="file:///usr/local/Cellar/numpy/1.11.1/libexec/nose/lib/python2.7/site-packages" />
-        <root url="file:///Library/Python/2.7/site-packages/six-1.10.0-py2.7.egg" />
-        <root url="file:///Library/Python/2.7/site-packages/numpy-1.11.0-py2.7-macosx-10.10-intel.egg" />
         <root url="file:///Library/Python/2.7/site-packages" />
-      </SOURCES>
-    </library>
-    <library name="/usr/local/bin/python interpreter library">
-      <CLASSES>
-        <root url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
-        <root url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
-        <root url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
-        <root url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
-        <root url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
-        <root url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/site-packages" />
-        <root url="file:///usr/local/lib/python2.7/site-packages/geos" />
-        <root url="file:///usr/local/Cellar/matplotlib/2.0.0/libexec/lib/python2.7/site-packages" />
-        <root url="file:///usr/local/Cellar/numpy/1.12.0/libexec/nose/lib/python2.7/site-packages" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
-        <root url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
-        <root url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
-        <root url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
-        <root url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
-        <root url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/site-packages" />
-        <root url="file:///usr/local/lib/python2.7/site-packages/geos" />
-        <root url="file:///usr/local/Cellar/matplotlib/2.0.0/libexec/lib/python2.7/site-packages" />
-        <root url="file:///usr/local/Cellar/numpy/1.12.0/libexec/nose/lib/python2.7/site-packages" />
       </SOURCES>
     </library>
     <library name="Python 2.7.13 (/usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/bin/python2.7) interpreter library">
