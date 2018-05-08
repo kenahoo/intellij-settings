@@ -2,8 +2,6 @@
   <component name="libraryTable">
     <library name="/usr/bin/python">
       <CLASSES>
-        <root url="file:///Library/Python/2.7/site-packages/six-1.10.0-py2.7.egg" />
-        <root url="file:///Library/Python/2.7/site-packages/numpy-1.11.0-py2.7-macosx-10.10-intel.egg" />
         <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
         <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
         <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
@@ -16,8 +14,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file:///Library/Python/2.7/site-packages/six-1.10.0-py2.7.egg" />
-        <root url="file:///Library/Python/2.7/site-packages/numpy-1.11.0-py2.7-macosx-10.10-intel.egg" />
         <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
         <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
         <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
@@ -31,8 +27,6 @@
     </library>
     <library name="/usr/bin/python interpreter library">
       <CLASSES>
-        <root url="file:///Library/Python/2.7/site-packages/six-1.10.0-py2.7.egg" />
-        <root url="file:///Library/Python/2.7/site-packages/numpy-1.11.0-py2.7-macosx-10.10-intel.egg" />
         <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
         <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
         <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
@@ -45,8 +39,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file:///Library/Python/2.7/site-packages/six-1.10.0-py2.7.egg" />
-        <root url="file:///Library/Python/2.7/site-packages/numpy-1.11.0-py2.7-macosx-10.10-intel.egg" />
         <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
         <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
         <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
@@ -63,131 +55,10 @@
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="Python 3.6.2 (/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6) interpreter library">
-      <CLASSES>
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.2/python_stubs/-2010535109" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.6" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.2/python_stubs/-2010535109" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.6" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 3.6.2 virtualenv at ~/.virtualenvs/fpl-scheduling interpreter library">
-      <CLASSES>
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload" />
-        <root url="file://$USER_HOME$/.virtualenvs/fpl-scheduling/lib/python3.6/site-packages" />
-        <root url="jar://$USER_HOME$/.virtualenvs/fpl-scheduling/lib/python3.6/site-packages/setuptools-28.8.0-py3.6.egg!/" />
-        <root url="file://$USER_HOME$/.virtualenvs/fpl-scheduling/lib/python3.6/site-packages/pip-9.0.1-py3.6.egg" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.2/python_stubs/-517969390" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.6" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload" />
-        <root url="file://$USER_HOME$/.virtualenvs/fpl-scheduling/lib/python3.6/site-packages" />
-        <root url="jar://$USER_HOME$/.virtualenvs/fpl-scheduling/lib/python3.6/site-packages/setuptools-28.8.0-py3.6.egg!/" />
-        <root url="file://$USER_HOME$/.virtualenvs/fpl-scheduling/lib/python3.6/site-packages/pip-9.0.1-py3.6.egg" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.2/python_stubs/-517969390" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.6" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 3.6.2 virtualenv at ~/git/schedule-compare/venv interpreter library">
-      <CLASSES>
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload" />
-        <root url="file://$USER_HOME$/git/schedule-compare/venv/lib/python3.6/site-packages" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.2/python_stubs/-855158333" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.6" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/lib-dynload" />
-        <root url="file://$USER_HOME$/git/schedule-compare/venv/lib/python3.6/site-packages" />
-        <root url="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.2/python_stubs/-855158333" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.6" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.5" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
     <library name="R Skeletons">
-      <CLASSES>
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.2/r_skeletons/1481726564" />
-      </CLASSES>
+      <CLASSES />
       <JAVADOC />
       <SOURCES />
-    </library>
-    <library name="scala-sdk-2.10.4">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.10.4/scala-library-2.10.4.jar!/" />
-        <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-reflect/2.10.4/scala-reflect-2.10.4.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.10.4/scala-library-2.10.4-javadoc.jar!/" />
-        <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-reflect/2.10.4/scala-reflect-2.10.4-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.10.4/scala-library-2.10.4-sources.jar!/" />
-        <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-reflect/2.10.4/scala-reflect-2.10.4-sources.jar!/" />
-      </SOURCES>
     </library>
     <library name="scala-sdk-2.11.8">
       <CLASSES>
@@ -196,26 +67,6 @@
       </CLASSES>
       <JAVADOC>
         <root url="http://www.scala-lang.org/api/2.11.8/" />
-      </JAVADOC>
-      <SOURCES />
-    </library>
-    <library name="scala-sdk-2.12.4" type="Scala">
-      <properties>
-        <compiler-classpath>
-          <root url="file:///usr/local/Cellar/scala/2.12.4/idea/lib/scala-compiler.jar" />
-          <root url="file:///usr/local/Cellar/scala/2.12.4/idea/lib/scala-library.jar" />
-          <root url="file:///usr/local/Cellar/scala/2.12.4/idea/lib/scala-reflect.jar" />
-        </compiler-classpath>
-      </properties>
-      <CLASSES>
-        <root url="jar:///usr/local/Cellar/scala/2.12.4/idea/lib/scala-library.jar!/" />
-        <root url="jar:///usr/local/Cellar/scala/2.12.4/idea/lib/scala-parser-combinators_2.12-1.0.6.jar!/" />
-        <root url="jar:///usr/local/Cellar/scala/2.12.4/idea/lib/scala-reflect.jar!/" />
-        <root url="jar:///usr/local/Cellar/scala/2.12.4/idea/lib/scala-swing_2.12-2.0.0.jar!/" />
-        <root url="jar:///usr/local/Cellar/scala/2.12.4/idea/lib/scala-xml_2.12-1.0.6.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="http://www.scala-lang.org/api/2.12.4/" />
       </JAVADOC>
       <SOURCES />
     </library>
