@@ -1,4 +1,4 @@
-<code_scheme name="Windlogics Cleanup">
+<code_scheme name="Windlogics Cleanup" version="173">
   <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="30" />
   <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="4" />
   <option name="IMPORT_LAYOUT_TABLE">
@@ -21,6 +21,24 @@
   <JSON>
     <option name="SPACE_BEFORE_COLON" value="true" />
   </JSON>
+  <JavaCodeStyleSettings>
+    <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="30" />
+    <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="4" />
+    <option name="IMPORT_LAYOUT_TABLE">
+      <value>
+        <package name="com" withSubpackages="true" static="false" />
+        <emptyLine />
+        <package name="org" withSubpackages="true" static="false" />
+        <emptyLine />
+        <package name="java" withSubpackages="true" static="false" />
+        <package name="" withSubpackages="true" static="false" />
+        <package name="javax" withSubpackages="true" static="false" />
+        <emptyLine />
+        <emptyLine />
+        <package name="" withSubpackages="true" static="true" />
+      </value>
+    </option>
+  </JavaCodeStyleSettings>
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
@@ -47,7 +65,6 @@
     <option name="THROWS_KEYWORD_WRAP" value="1" />
     <option name="METHOD_CALL_CHAIN_WRAP" value="1" />
     <option name="BINARY_OPERATION_WRAP" value="1" />
-    <option name="BINARY_OPERATION_SIGN_ON_NEXT_LINE" value="true" />
     <option name="TERNARY_OPERATION_WRAP" value="5" />
     <option name="ARRAY_INITIALIZER_WRAP" value="1" />
     <option name="METHOD_ANNOTATION_WRAP" value="0" />
