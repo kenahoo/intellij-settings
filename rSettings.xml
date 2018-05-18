@@ -1,0 +1,5 @@
+<application>
+  <component name="RSettings">
+    <option name="interpreterPath" value="$USER_HOME$/miniconda3/bin/R" />
+  </component>
+</application>
