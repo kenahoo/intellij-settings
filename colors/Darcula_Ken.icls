@@ -1,5 +1,6 @@
 <scheme name="Darcula-Ken" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
+  <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="10" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
@@ -26,7 +27,7 @@
     <option name="FILESTATUS_changelistConflict" value="d5756c" />
     <option name="FILESTATUS_modifiedOutside" value="6897bb" />
     <option name="GUTTER_BACKGROUND" value="313335" />
-    <option name="INDENT_GUIDE" value="373737" />
+    <option name="INDENT_GUIDE" value="3c3f41" />
     <option name="LINE_NUMBERS_COLOR" value="888888" />
     <option name="METHOD_SEPARATORS_COLOR" value="4d4d4d" />
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
@@ -10840,19 +10841,6 @@
         <option name="FOREGROUND" value="cc7832" />
       </value>
     </option>
-    <option name="PERL_ARRAY" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="PERL_DQ_STRING" baseAttributes="DEFAULT_STRING" />
-    <option name="PERL_DX_STRING" baseAttributes="DEFAULT_STRING" />
-    <option name="PERL_GLOB" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="PERL_HASH" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="PERL_NUMBER" baseAttributes="DEFAULT_NUMBER" />
-    <option name="PERL_PACKAGE" baseAttributes="DEFAULT_CLASS_NAME" />
-    <option name="PERL_REGEX_TOKEN" baseAttributes="DEFAULT_STRING" />
-    <option name="PERL_SCALAR" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="PERL_SQ_STRING" baseAttributes="DEFAULT_STRING" />
-    <option name="PERL_SUB" baseAttributes="DEFAULT_FUNCTION_CALL" />
-    <option name="PERL_SUB_DEFINITION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
-    <option name="PERL_XSUB" baseAttributes="PERL_SUB" />
     <option name="PHP_CONSTANT">
       <value>
         <option name="FOREGROUND" value="9876aa" />
@@ -10921,11 +10909,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="PY.FUNC_DEFINITION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
-    <option name="PY.KEYWORD_ARGUMENT" baseAttributes="DEFAULT_PARAMETER" />
-    <option name="PY.PREDEFINED_DEFINITION" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
-    <option name="PY.PREDEFINED_USAGE" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
-    <option name="PY.STRING.U" baseAttributes="DEFAULT_STRING" />
     <option name="REGEXP.BRACES">
       <value>
         <option name="FOREGROUND" value="e8bf6a" />

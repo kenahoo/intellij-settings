@@ -1,0 +1,5 @@
+<application>
+  <component name="ScalaCodeInsightSettings">
+    <option name="showForObviousTypes" value="true" />
+  </component>
+</application>
