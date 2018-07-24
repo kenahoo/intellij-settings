@@ -125,11 +125,6 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
-    <library name="R Skeletons">
-      <CLASSES />
-      <JAVADOC />
-      <SOURCES />
-    </library>
     <library name="scala-sdk-2.11.8">
       <CLASSES>
         <root url="jar:///usr/local/opt/scala/idea/lib/scala-library.jar!/" />
