@@ -115,9 +115,7 @@
   <action id="IntroduceVariable">
     <keyboard-shortcut first-keystroke="shift meta l" />
   </action>
-  <action id="JumpToLastWindow">
-    <keyboard-shortcut first-keystroke="meta back_quote" />
-  </action>
+  <action id="JumpToLastWindow" />
   <action id="Macro.insert assignment operator">
     <keyboard-shortcut first-keystroke="alt minus" />
   </action>
