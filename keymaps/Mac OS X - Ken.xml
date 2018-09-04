@@ -112,12 +112,13 @@
   <action id="IntroduceConstant">
     <keyboard-shortcut first-keystroke="shift meta c" />
   </action>
+  <action id="IntroduceParameter">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
   <action id="IntroduceVariable">
     <keyboard-shortcut first-keystroke="shift meta l" />
   </action>
-  <action id="JumpToLastWindow">
-    <keyboard-shortcut first-keystroke="meta back_quote" />
-  </action>
+  <action id="JumpToLastWindow" />
   <action id="Macro.insert assignment operator">
     <keyboard-shortcut first-keystroke="alt minus" />
   </action>
@@ -161,6 +162,13 @@
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
   <action id="Scala.RunWorksheet" />
+  <action id="Scala.ShowImplicitArguments" />
+  <action id="Scala.ShowImplicitParameters" />
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+  <action id="SelectIn" />
   <action id="SendEOF" />
   <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="ShelvedChanges.Diff" />

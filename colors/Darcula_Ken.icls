@@ -10909,6 +10909,13 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="PY.FUNC_DEFINITION">
+      <value>
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PY.KEYWORD_ARGUMENT" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="PY.STRING.U" baseAttributes="DEFAULT_STRING" />
     <option name="REGEXP.BRACES">
       <value>
         <option name="FOREGROUND" value="e8bf6a" />
@@ -11130,7 +11137,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="a9b7c6" />
-        <option name="BACKGROUND" value="1a1a1a" />
+        <option name="BACKGROUND" value="1f1f1f" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
