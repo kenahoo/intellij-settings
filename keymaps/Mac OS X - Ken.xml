@@ -79,6 +79,9 @@
     <keyboard-shortcut first-keystroke="shift meta m" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="FillParagraph">
+    <keyboard-shortcut first-keystroke="shift meta quote" />
+  </action>
   <action id="Find" />
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="shift meta f" />
@@ -122,6 +125,7 @@
   <action id="Macro.insert assignment operator">
     <keyboard-shortcut first-keystroke="alt minus" />
   </action>
+  <action id="MaximizeToolWindow" />
   <action id="MethodHierarchy" />
   <action id="MethodHierarchy.BaseOnThisType" />
   <action id="MoveElementRight" />
