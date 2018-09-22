@@ -10,8 +10,6 @@
       <mapping ext="profile" type="PHP" />
       <mapping ext="theme" type="PHP" />
       <mapping ext="install" type="PHP" />
-      <mapping ext="pl" type="Perl5 script" />
-      <removed_mapping ext="pl" type="Prolog resource" />
     </extensionMap>
   </component>
 </application>
