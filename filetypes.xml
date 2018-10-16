@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="CentOS-R-dev" type="Dockerfile" />
       <mapping pattern="CentOS-Python-common" type="Dockerfile" />
       <mapping pattern="CentOS-Python-build" type="Dockerfile" />
       <mapping pattern="CentOS-Python-dev" type="Dockerfile" />
