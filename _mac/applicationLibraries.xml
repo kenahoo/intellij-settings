@@ -50,14 +50,6 @@
         <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/PyObjC" />
       </SOURCES>
     </library>
-    <library name="Java 1.8">
-      <CLASSES />
-      <JAVADOC />
-      <SOURCES>
-        <root url="file:///Library/Java/Home" />
-      </SOURCES>
-      <jarDirectory url="file:///Library/Java/Home" recursive="false" type="SOURCES" />
-    </library>
     <library name="Python 3.5.3 (/Library/Frameworks/Python.framework/Versions/3.5/bin/python3.5) interpreter library">
       <CLASSES />
       <JAVADOC />
