@@ -1,14 +1,13 @@
 <application>
   <component name="Perl5ApplicationSettings">
-    <option name="pluginVersion" value="2018.2.1" />
+    <option name="pluginVersion" value="2018.3.3" />
     <option name="popupShown" value="true" />
   </component>
   <component name="PerlInterpreters">
     <perl version="2">
       <name value="Perl v5.18.2" />
       <type value="Perl5 Interpreter" />
-      <version value="v5.18.2 for darwin-thread-multi-2level" />
-      <homePath value="/usr/bin" />
+      <homePath value="/usr/bin/perl" />
       <roots>
         <annotationsPath>
           <root type="composite" />
@@ -30,7 +29,11 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional />
+      <additional>
+        <host id="localhost" />
+        <implementation id="porters" />
+        <versionManager id="system" />
+      </additional>
     </perl>
   </component>
 </application>
