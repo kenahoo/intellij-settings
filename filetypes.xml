@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="CentOS-R" type="Dockerfile" />
       <mapping pattern="CentOS-R-build" type="Dockerfile" />
       <mapping pattern="CentOS-Python-build" type="Dockerfile" />
@@ -15,8 +16,6 @@
       <mapping ext="profile" type="PHP" />
       <mapping ext="theme" type="PHP" />
       <mapping ext="install" type="PHP" />
-      <mapping ext="pl" type="Perl5 script" />
-      <removed_mapping ext="pl" approved="true" type="Prolog resource" />
     </extensionMap>
   </component>
 </application>
