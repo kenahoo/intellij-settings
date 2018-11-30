@@ -14,8 +14,12 @@
         </annotationsPath>
         <classPath>
           <root type="composite">
+            <root url="file://$USER_HOME$/perl5/lib/perl5/darwin-thread-multi-2level" type="simple" />
+            <root url="file://$USER_HOME$/perl5/lib/perl5" type="simple" />
             <root url="file:///Library/Perl/5.18/darwin-thread-multi-2level" type="simple" />
             <root url="file:///Library/Perl/5.18" type="simple" />
+            <root url="file:///Library/Perl/Updates/5.18.2/darwin-thread-multi-2level" type="simple" />
+            <root url="file:///Library/Perl/Updates/5.18.2" type="simple" />
             <root url="file:///System/Library/Perl/5.18/darwin-thread-multi-2level" type="simple" />
             <root url="file:///System/Library/Perl/5.18" type="simple" />
             <root url="file:///System/Library/Perl/Extras/5.18/darwin-thread-multi-2level" type="simple" />
