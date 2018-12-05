@@ -7,6 +7,7 @@
       <mapping pattern="CentOS-R-dev" type="Dockerfile" />
       <mapping pattern="CentOS-Python-dev" type="Dockerfile" />
       <mapping pattern="CentOS-Python-build" type="Dockerfile" />
+      <mapping pattern="CentOS-R-bare" type="Dockerfile" />
       <mapping pattern="CentOS-R" type="Dockerfile" />
       <mapping pattern="CentOS-R-build-bare" type="Dockerfile" />
       <mapping pattern="CentOS-R-common" type="Dockerfile" />
