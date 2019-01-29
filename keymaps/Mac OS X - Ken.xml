@@ -1,4 +1,5 @@
 <keymap version="1" name="Mac OS X - Ken" parent="Mac OS X">
+  <action id="ActivateMessagesToolWindow" />
   <action id="AutoIndentLines">
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
@@ -11,6 +12,19 @@
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="meta alt w" />
   </action>
+  <action id="CollapseAll">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="shift meta subtract" />
+  </action>
+  <action id="CollapseExpandableComponent">
+    <keyboard-shortcut first-keystroke="shift enter" />
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="shift meta minus" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Console.History.Browse">
     <keyboard-shortcut first-keystroke="meta alt e" />
@@ -20,6 +34,9 @@
     <keyboard-shortcut first-keystroke="alt f3" />
   </action>
   <action id="CopyPaths" />
+  <action id="DSM.ZoomIn">
+    <keyboard-shortcut first-keystroke="meta add" />
+  </action>
   <action id="Diff.ShowDiff" />
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
@@ -31,6 +48,9 @@
   <action id="EditorCodeBlockEndWithSelection" />
   <action id="EditorCodeBlockStart" />
   <action id="EditorCodeBlockStartWithSelection" />
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="meta minus" />
+  </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
@@ -38,10 +58,16 @@
     <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
   <action id="EditorDuplicate" />
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="meta equals" />
+  </action>
   <action id="EditorIndentSelection">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
   </action>
   <action id="EditorMatchBrace" />
+  <action id="EditorResetFontSize">
+    <keyboard-shortcut first-keystroke="meta 0" />
+  </action>
   <action id="EditorScrollDown" />
   <action id="EditorScrollToCenter">
     <keyboard-shortcut first-keystroke="ctrl l" />
@@ -75,10 +101,27 @@
   <action id="ExecuteInPyConsoleAction">
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
+  <action id="ExpandAll">
+    <keyboard-shortcut first-keystroke="meta add" />
+  </action>
+  <action id="ExpandAllRegions">
+    <keyboard-shortcut first-keystroke="shift meta add" />
+  </action>
+  <action id="ExpandExpandableComponent">
+    <keyboard-shortcut first-keystroke="shift enter" />
+    <keyboard-shortcut first-keystroke="meta add" />
+  </action>
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="shift meta equals" />
+  </action>
+  <action id="ExternalSystem.ExpandAll">
+    <keyboard-shortcut first-keystroke="meta add" />
+  </action>
   <action id="ExtractMethod">
     <keyboard-shortcut first-keystroke="shift meta m" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.NewFolder" />
   <action id="FillParagraph">
     <keyboard-shortcut first-keystroke="shift meta quote" />
   </action>
@@ -96,6 +139,8 @@
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
   </action>
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="meta button1" />
   </action>
@@ -107,6 +152,9 @@
   </action>
   <action id="GuiDesigner.Duplicate" />
   <action id="GuiDesigner.IncreaseIndent" />
+  <action id="Images.Editor.ZoomIn">
+    <keyboard-shortcut first-keystroke="meta add" />
+  </action>
   <action id="Images.ShowThumbnails" />
   <action id="ImplementMethods" />
   <action id="Inline">
@@ -125,6 +173,9 @@
   <action id="Macro.insert assignment operator">
     <keyboard-shortcut first-keystroke="alt minus" />
   </action>
+  <action id="Maven.ExpandAll">
+    <keyboard-shortcut first-keystroke="meta add" />
+  </action>
   <action id="MaximizeToolWindow" />
   <action id="MethodHierarchy" />
   <action id="MethodHierarchy.BaseOnThisType" />
@@ -137,6 +188,9 @@
   </action>
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
+  <action id="NewFile">
+    <keyboard-shortcut first-keystroke="meta n" />
+  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl page_down" />
   </action>
@@ -196,6 +250,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="ThePlugin.ShowGlobalSettings" />
+  <action id="UML.ZoomIn">
+    <keyboard-shortcut first-keystroke="meta add" />
+  </action>
   <action id="Vcs.Log.GoToRef">
     <keyboard-shortcut first-keystroke="alt f3" />
   </action>

@@ -1,0 +1,14 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://wlweb.windlogics.com/sonar" />
+          <token>dfc9df9bdf92dfcfdf9bdfc8df98df9cdf9cdfcedfcbdf9adf9edf9fdfc9dfccdfcbdfccdf9ddfcedfccdfcfdf98df98df9edf9cdfcfdfcbdf93df93dfcbdf9cdf9adfc9dfccdf9ddf9edfcfdf9ddf9f</token>
+          <option name="name" value="https://wlweb.windlogics.com/sonar" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
