@@ -12,6 +12,7 @@
       <mapping pattern="CentOS-Python-dev" type="Dockerfile" />
       <mapping pattern="CentOS-R-bare" type="Dockerfile" />
       <mapping pattern="CentOS-R-dev" type="Dockerfile" />
+      <mapping pattern="Debian-R" type="Dockerfile" />
       <mapping ext="engine" type="PHP" />
       <mapping ext="test" type="PHP" />
       <mapping ext="profile" type="PHP" />
