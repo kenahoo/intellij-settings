@@ -6,20 +6,21 @@
       <mapping pattern="CentOS-Python-build" type="Dockerfile" />
       <mapping pattern="CentOS-R-build-bare" type="Dockerfile" />
       <mapping pattern="CentOS-Python" type="Dockerfile" />
-      <mapping pattern="CentOS-Python-common" type="Dockerfile" />
       <mapping pattern="conda-R" type="Dockerfile" />
+      <mapping pattern="CentOS-Python-common" type="Dockerfile" />
       <mapping pattern="CentOS-R-multi" type="Dockerfile" />
       <mapping pattern="CentOS-R-common" type="Dockerfile" />
       <mapping pattern="CentOS-Python-dev" type="Dockerfile" />
       <mapping pattern="CentOS-R-bare" type="Dockerfile" />
       <mapping pattern="CentOS-R-dev" type="Dockerfile" />
       <mapping pattern="Debian-R" type="Dockerfile" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="engine" type="PHP" />
-      <mapping ext="test" type="PHP" />
       <mapping ext="profile" type="PHP" />
+      <mapping ext="test" type="PHP" />
       <mapping ext="theme" type="PHP" />
       <mapping ext="install" type="PHP" />
-      <mapping ext="pl" type="Perl5 script" />
       <removed_mapping ext="pl" approved="true" type="Prolog resource" />
       <removed_mapping ext="pl" approved="true" type="Prolog resource" />
     </extensionMap>
