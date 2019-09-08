@@ -4,16 +4,16 @@
       <mapping pattern="CentOS-R-build" type="Dockerfile" />
       <mapping pattern="CentOS-Python-build" type="Dockerfile" />
       <mapping pattern="CentOS-R-build-bare" type="Dockerfile" />
-      <mapping pattern="conda-R" type="Dockerfile" />
       <mapping pattern="CentOS-Python" type="Dockerfile" />
-      <mapping pattern="CentOS-R" type="Dockerfile" />
+      <mapping pattern="CentOS-R-common" type="Dockerfile" />
       <mapping pattern="CentOS-Python-common" type="Dockerfile" />
       <mapping pattern="conda-R-test" type="Dockerfile" />
       <mapping pattern="CentOS-R-multi" type="Dockerfile" />
-      <mapping pattern="CentOS-R-common" type="Dockerfile" />
+      <mapping pattern="conda-R" type="Dockerfile" />
       <mapping pattern="CentOS-Python-dev" type="Dockerfile" />
       <mapping pattern="CentOS-R-bare" type="Dockerfile" />
       <mapping pattern="CentOS-R-dev" type="Dockerfile" />
+      <mapping pattern="CentOS-R" type="Dockerfile" />
       <mapping pattern="Debian-R" type="Dockerfile" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
@@ -25,7 +25,6 @@
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="htaccess" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
