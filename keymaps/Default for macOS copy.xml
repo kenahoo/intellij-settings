@@ -2,12 +2,23 @@
   <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="AutoIndentLines">
+    <keyboard-shortcut first-keystroke="meta i" />
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
   <action id="ChangesView.Diff" />
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CloneRow" />
   <action id="Console.TableResult.FindInGrid" />
   <action id="DatabaseView.CopyAction" />
+  <action id="DatabaseView.PropertiesAction" />
   <action id="Debug" />
+  <action id="Diff.NextChange">
+    <keyboard-shortcut first-keystroke="ctrl right" />
+  </action>
+  <action id="Diff.PrevChange">
+    <keyboard-shortcut first-keystroke="ctrl left" />
+  </action>
   <action id="Diff.ShowDiff" />
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="shift alt up" />
@@ -19,8 +30,14 @@
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="EditorDuplicate" />
+  <action id="EditorIndentSelection">
+    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+  </action>
   <action id="EditorSelectWord" />
   <action id="EditorUnSelectWord" />
+  <action id="EditorUnindentSelection">
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
+  </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="Find" />
   <action id="GotoFile" />
@@ -40,7 +57,6 @@
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
   <action id="NextTab">
-    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
     <keyboard-shortcut first-keystroke="ctrl right" />
     <keyboard-shortcut first-keystroke="ctrl page_down" />
   </action>
@@ -48,7 +64,6 @@
     <keyboard-shortcut first-keystroke="shift meta o" />
   </action>
   <action id="PreviousTab">
-    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
     <keyboard-shortcut first-keystroke="ctrl left" />
     <keyboard-shortcut first-keystroke="ctrl page_up" />
   </action>
