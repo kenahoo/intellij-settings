@@ -25,6 +25,12 @@
   <action id="Find" />
   <action id="GotoFile" />
   <action id="GuiDesigner.ExpandSelection" />
+  <action id="Inline">
+    <keyboard-shortcut first-keystroke="shift meta i" />
+  </action>
+  <action id="IntroduceVariable">
+    <keyboard-shortcut first-keystroke="shift meta l" />
+  </action>
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
   <action id="MoveLineDown">
@@ -33,8 +39,18 @@
   <action id="MoveLineUp">
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl right" />
+    <keyboard-shortcut first-keystroke="ctrl page_down" />
+  </action>
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="shift meta o" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl left" />
+    <keyboard-shortcut first-keystroke="ctrl page_up" />
   </action>
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="f1" />
