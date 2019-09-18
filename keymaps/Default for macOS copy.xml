@@ -7,6 +7,7 @@
     <keyboard-shortcut first-keystroke="tab" />
   </action>
   <action id="ChangesView.Diff" />
+  <action id="ChangesView.Move" />
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CloneRow" />
   <action id="Console.TableResult.FindInGrid" />
@@ -71,6 +72,9 @@
   </action>
   <action id="ExternalSystem.OpenConfig">
     <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="ExtractMethod">
+    <keyboard-shortcut first-keystroke="shift meta m" />
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="Find" />
@@ -174,6 +178,7 @@
     <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="Vcs.Log.GoToRef" />
+  <action id="Vcs.MoveChangedLinesToChangelist" />
   <action id="XDebugger.JumpToSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
