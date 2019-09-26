@@ -842,6 +842,26 @@
         <option name="FOREGROUND" value="cc7832" />
       </value>
     </option>
+    <option name="KOTLIN_ANNOTATION">
+      <value>
+        <option name="FOREGROUND" value="7c7fbf" />
+      </value>
+    </option>
+    <option name="KOTLIN_SMART_CAST_RECEIVER">
+      <value>
+        <option name="FOREGROUND" value="98c821" />
+      </value>
+    </option>
+    <option name="KOTLIN_SMART_CAST_VALUE">
+      <value>
+        <option name="FOREGROUND" value="98c821" />
+      </value>
+    </option>
+    <option name="KOTLIN_SMART_CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="98c821" />
+      </value>
+    </option>
     <option name="LESS_VARIABLE">
       <value>
         <option name="FOREGROUND" value="d0d0ff" />
@@ -10843,25 +10863,11 @@
         <option name="FOREGROUND" value="cc7832" />
       </value>
     </option>
-    <option name="PERL_DQ_STRING" baseAttributes="DEFAULT_STRING" />
-    <option name="PERL_DX_STRING" baseAttributes="DEFAULT_STRING" />
-    <option name="PERL_GLOB" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="PERL_GLOB_BUILTIN" baseAttributes="PERL_GLOB" />
-    <option name="PERL_NUMBER" baseAttributes="DEFAULT_NUMBER" />
-    <option name="PERL_PACKAGE" baseAttributes="DEFAULT_CLASS_NAME" />
-    <option name="PERL_PACKAGE_CORE" baseAttributes="PERL_PACKAGE" />
-    <option name="PERL_PACKAGE_PRAGMA" baseAttributes="PERL_PACKAGE" />
     <option name="PERL_REGEX_TOKEN">
       <value>
         <option name="BACKGROUND" value="2e0309" />
       </value>
     </option>
-    <option name="PERL_SCALAR" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="PERL_SQ_STRING" baseAttributes="DEFAULT_STRING" />
-    <option name="PERL_SUB" baseAttributes="DEFAULT_FUNCTION_CALL" />
-    <option name="PERL_SUB_BUILTIN" baseAttributes="PERL_SUB" />
-    <option name="PERL_SUB_DEFINITION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
-    <option name="PERL_XSUB" baseAttributes="PERL_SUB" />
     <option name="PHP_CONSTANT">
       <value>
         <option name="FOREGROUND" value="9876aa" />
