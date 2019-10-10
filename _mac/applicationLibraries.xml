@@ -1,9 +1,12 @@
 <application>
   <component name="libraryTable">
-    <library name="Python 3.6 (bigbrian) interpreter library">
+    <library name="Python 3.7 virtualenv at ~/git/dispatcher/rush-springs-simulations/venv interpreter library">
       <CLASSES>
-        <root url="file://$USER_HOME$/git/bb/bigbrian/venv/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.1/python_stubs/652088283" />
+        <root url="file://$USER_HOME$/git/dispatcher/rush-springs-simulations/venv/lib/python3.7" />
+        <root url="file://$USER_HOME$/git/dispatcher/rush-springs-simulations/venv/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/miniconda3/lib/python3.7" />
+        <root url="file://$USER_HOME$/git/dispatcher/rush-springs-simulations/venv/lib/python3.7/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.2/python_stubs/-457169762" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
@@ -12,19 +15,17 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$USER_HOME$/git/bb/bigbrian/venv/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.1/python_stubs/652088283" />
+        <root url="file://$USER_HOME$/git/dispatcher/rush-springs-simulations/venv/lib/python3.7" />
+        <root url="file://$USER_HOME$/git/dispatcher/rush-springs-simulations/venv/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/miniconda3/lib/python3.7" />
+        <root url="file://$USER_HOME$/git/dispatcher/rush-springs-simulations/venv/lib/python3.7/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.2/python_stubs/-457169762" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </SOURCES>
-    </library>
-    <library name="R Skeletons">
-      <CLASSES />
-      <JAVADOC />
-      <SOURCES />
     </library>
   </component>
 </application>
