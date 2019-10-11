@@ -82,6 +82,9 @@
     <keyboard-shortcut first-keystroke="shift meta m" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="FillParagraph">
+    <keyboard-shortcut first-keystroke="shift meta quote" />
+  </action>
   <action id="Find" />
   <action id="GoOpenSettings">
     <keyboard-shortcut first-keystroke="f4" />
@@ -105,6 +108,7 @@
     <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="KotlinShellExecute" />
+  <action id="MaximizeToolWindow" />
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
   <action id="MoveLineDown">
