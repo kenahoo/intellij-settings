@@ -8,6 +8,16 @@
   </action>
   <action id="ChangesView.Diff" />
   <action id="ChangesView.Move" />
+  <action id="CollapseAll">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
+  <action id="CollapseExpandableComponent">
+    <keyboard-shortcut first-keystroke="shift enter" />
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Console.Execute.Multiline" />
   <action id="Console.Jdbc.Execute" />
@@ -18,6 +28,9 @@
   </action>
   <action id="DSM.OpenInEditor">
     <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="DSM.ZoomIn">
+    <keyboard-shortcut first-keystroke="meta add" />
   </action>
   <action id="DatabaseView.CopyAction" />
   <action id="DatabaseView.PropertiesAction" />
@@ -49,10 +62,16 @@
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="meta minus" />
+  </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="EditorDuplicate" />
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="meta equals" />
+  </action>
   <action id="EditorIndentSelection">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
   </action>
@@ -74,6 +93,19 @@
   <action id="EditorUnSelectWord" />
   <action id="EditorUnindentSelection">
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
+  </action>
+  <action id="ExpandAll">
+    <keyboard-shortcut first-keystroke="meta add" />
+  </action>
+  <action id="ExpandExpandableComponent">
+    <keyboard-shortcut first-keystroke="shift enter" />
+    <keyboard-shortcut first-keystroke="meta add" />
+  </action>
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="meta add" />
+  </action>
+  <action id="ExternalSystem.ExpandAll">
+    <keyboard-shortcut first-keystroke="meta add" />
   </action>
   <action id="ExternalSystem.OpenConfig">
     <keyboard-shortcut first-keystroke="f4" />
@@ -97,6 +129,9 @@
   </action>
   <action id="Groovy.Shell.Execute" />
   <action id="GuiDesigner.ExpandSelection" />
+  <action id="Images.Editor.ZoomIn">
+    <keyboard-shortcut first-keystroke="meta add" />
+  </action>
   <action id="IncrementWindowHeight" />
   <action id="Inline">
     <keyboard-shortcut first-keystroke="shift meta i" />
@@ -108,6 +143,9 @@
     <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="KotlinShellExecute" />
+  <action id="Maven.ExpandAll">
+    <keyboard-shortcut first-keystroke="meta add" />
+  </action>
   <action id="MaximizeToolWindow" />
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
