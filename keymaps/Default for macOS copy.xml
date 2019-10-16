@@ -8,15 +8,13 @@
   </action>
   <action id="ChangesView.Diff" />
   <action id="ChangesView.Move" />
-  <action id="CollapseAll">
-    <keyboard-shortcut first-keystroke="meta subtract" />
-  </action>
+  <action id="CollapseAll" />
+  <action id="CollapseAllRegions" />
   <action id="CollapseExpandableComponent">
     <keyboard-shortcut first-keystroke="shift enter" />
-    <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
   <action id="CollapseRegion">
-    <keyboard-shortcut first-keystroke="meta subtract" />
+    <keyboard-shortcut first-keystroke="shift meta minus" />
   </action>
   <action id="CompareTwoFiles" />
   <action id="Console.Execute.Multiline" />
