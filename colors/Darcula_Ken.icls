@@ -10880,6 +10880,14 @@
         <option name="BACKGROUND" value="5e6465" />
       </value>
     </option>
+    <option name="PHP_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="cc7833" />
+      </value>
+    </option>
+    <option name="PHP_PARAMETER">
+      <value />
+    </option>
     <option name="PHP_VAR">
       <value>
         <option name="FOREGROUND" value="9876aa" />
