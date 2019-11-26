@@ -11366,28 +11366,12 @@
       </value>
     </option>
     <option name="YAML_ANCHOR" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="YAML_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="bc9458" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="YAML_SCALAR_DSTRING">
-      <value>
-        <option name="FOREGROUND" value="a5c261" />
-      </value>
-    </option>
     <option name="YAML_SCALAR_KEY">
       <value>
         <option name="FOREGROUND" value="e8bf6a" />
       </value>
     </option>
     <option name="YAML_SCALAR_LIST">
-      <value>
-        <option name="FOREGROUND" value="a5c261" />
-      </value>
-    </option>
-    <option name="YAML_SCALAR_STRING">
       <value>
         <option name="FOREGROUND" value="a5c261" />
       </value>
@@ -11410,8 +11394,8 @@
     </option>
     <option name="YAML_TEXT">
       <value>
-        <option name="FOREGROUND" value="a5c261" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="FOREGROUND" value="e1413a" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="osmorc.attributeName">
