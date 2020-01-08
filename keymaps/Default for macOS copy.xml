@@ -7,6 +7,9 @@
     <keyboard-shortcut first-keystroke="meta i" />
     <keyboard-shortcut first-keystroke="tab" />
   </action>
+  <action id="ChangesView.AddUnversioned">
+    <keyboard-shortcut first-keystroke="shift meta a" />
+  </action>
   <action id="ChangesView.Diff" />
   <action id="ChangesView.Move" />
   <action id="CollapseAll" />
@@ -127,6 +130,7 @@
   <action id="GoOpenSettings">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="GotoAction" />
   <action id="GotoFile" />
   <action id="GotoNextElementUnderCaretUsage" />
   <action id="GotoPrevElementUnderCaretUsage" />
