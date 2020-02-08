@@ -15,6 +15,7 @@
       <mapping pattern="CentOS-R-bare" type="Dockerfile" />
       <mapping pattern="CentOS-R-dev" type="Dockerfile" />
       <mapping pattern="Debian-R" type="Dockerfile" />
+      <mapping pattern="Ubuntu-R" type="Dockerfile" />
       <mapping ext="info" type="Ini" />
       <mapping ext="engine" type="PHP" />
       <mapping ext="profile" type="PHP" />
