@@ -5,8 +5,8 @@
       <mapping pattern="conda-R-test" type="Dockerfile" />
       <mapping pattern="CentOS-Python-common" type="Dockerfile" />
       <mapping pattern="Ubuntu-R-dev" type="Dockerfile" />
-      <mapping pattern="CentOS-R-common" type="Dockerfile" />
       <mapping pattern="CentOS-R-dev" type="Dockerfile" />
+      <mapping pattern="CentOS-R-common" type="Dockerfile" />
       <mapping pattern="Ubuntu-Python-common" type="Dockerfile" />
       <mapping pattern="Ubuntu-R-common" type="Dockerfile" />
       <mapping pattern="CentOS-R-bare" type="Dockerfile" />
@@ -15,13 +15,13 @@
       <mapping pattern="CentOS-Python-build" type="Dockerfile" />
       <mapping pattern="Ubuntu-Python-build" type="Dockerfile" />
       <mapping pattern="Ubuntu-R" type="Dockerfile" />
+      <mapping pattern="CentOS-R-multi" type="Dockerfile" />
       <mapping pattern="CentOS-R-build" type="Dockerfile" />
       <mapping pattern="CentOS-R-build-bare" type="Dockerfile" />
       <mapping pattern="conda-R" type="Dockerfile" />
       <mapping pattern="CentOS-Python" type="Dockerfile" />
       <mapping pattern="Debian-R" type="Dockerfile" />
       <mapping pattern="Ubuntu-Python-dev" type="Dockerfile" />
-      <mapping pattern="CentOS-R-multi" type="Dockerfile" />
       <mapping pattern="CentOS-Python-dev" type="Dockerfile" />
       <mapping ext="info" type="Ini" />
       <mapping ext="engine" type="PHP" />
