@@ -2,8 +2,6 @@
   <component name="libraryTable">
     <library name="Python 3.6 (bigbrian) interpreter library">
       <CLASSES>
-        <root url="file://$USER_HOME$/miniconda3/lib/python3.6" />
-        <root url="file://$USER_HOME$/miniconda3/lib/python3.6/lib-dynload" />
         <root url="file://$USER_HOME$/git/bb/bigbrian/venv/lib/python3.6/site-packages" />
         <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.1/python_stubs/652088283" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
@@ -14,8 +12,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$USER_HOME$/miniconda3/lib/python3.6" />
-        <root url="file://$USER_HOME$/miniconda3/lib/python3.6/lib-dynload" />
         <root url="file://$USER_HOME$/git/bb/bigbrian/venv/lib/python3.6/site-packages" />
         <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.1/python_stubs/652088283" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
