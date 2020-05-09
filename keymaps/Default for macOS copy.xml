@@ -196,6 +196,7 @@
   <action id="ProjectViewEditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="PyExecuteCellAction" />
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="f1" />
     <keyboard-shortcut first-keystroke="ctrl j" />
