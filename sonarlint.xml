@@ -1,11 +1,5 @@
 <application>
   <component name="SonarLintGlobalSettings">
-    <option name="excludedRules">
-      <set>
-        <option value="python:S100" />
-        <option value="squid:S3358" />
-      </set>
-    </option>
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
@@ -16,5 +10,9 @@
         </SonarQubeServer>
       </list>
     </option>
+    <rules>
+      <Rule active="false" key="squid:S3358" />
+      <Rule active="false" key="python:S100" />
+    </rules>
   </component>
 </application>
