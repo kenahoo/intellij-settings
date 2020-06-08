@@ -176,6 +176,10 @@
   <action id="NavBar-navigate">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="NewFile">
+    <keyboard-shortcut first-keystroke="shift meta n" />
+  </action>
+  <action id="NewScratchFile" />
   <action id="NextEditorTab" />
   <action id="NextProjectWindow">
     <keyboard-shortcut first-keystroke="meta back_quote" />
