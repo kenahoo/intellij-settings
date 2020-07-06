@@ -140,6 +140,7 @@
   <action id="Graph.Faces.OpenSelectedPages">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="GraphDatabaseActionGroup.ExecuteQuery" />
   <action id="Groovy.Shell.Execute" />
   <action id="GuiDesigner.ExpandSelection" />
   <action id="Images.Editor.ZoomIn">
