@@ -3,7 +3,7 @@
     <property name="created">2020-05-11T11:03:30</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.1.1.0.0</property>
-    <property name="modified">2020-05-14T16:00:45</property>
+    <property name="modified">2020-07-20T11:09:04</property>
     <property name="originalScheme">IntelliJ Light</property>
   </metaInfo>
   <colors>
@@ -49,7 +49,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="8c8c8c" />
+        <option name="FOREGROUND" value="78a36b" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -61,7 +61,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="8c8c8c" />
+        <option name="FOREGROUND" value="78a36b" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -83,7 +83,9 @@
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="9f4a04" />
+      </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
@@ -114,7 +116,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="8c8c8c" />
+        <option name="FOREGROUND" value="78a36b" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -142,7 +144,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="67d17" />
+        <option name="FOREGROUND" value="e1413a" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -320,6 +322,7 @@
         <option name="FOREGROUND" value="83080" />
       </value>
     </option>
+    <option name="PY.STRING.U" baseAttributes="DEFAULT_STRING" />
     <option name="SASS_MIXIN">
       <value>
         <option name="FOREGROUND" value="8080" />
@@ -353,7 +356,7 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="8dde" />
+        <option name="FOREGROUND" value="a8c023" />
         <option name="FONT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" value="54aae3" />
       </value>
