@@ -26,6 +26,8 @@
       <mapping pattern="Ubuntu-PyJulia-build" type="Dockerfile" />
       <mapping pattern="CentOS-Python-build" type="Dockerfile" />
       <mapping ext="info" type="Ini" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="install" type="PHP" />
       <mapping ext="test" type="PHP" />
       <mapping ext="engine" type="PHP" />
