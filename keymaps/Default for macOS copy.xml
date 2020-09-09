@@ -140,6 +140,7 @@
   <action id="Graph.Faces.OpenSelectedPages">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="GraphDatabaseActionGroup.ExecuteQuery" />
   <action id="Groovy.Shell.Execute" />
   <action id="GuiDesigner.ExpandSelection" />
   <action id="Images.Editor.ZoomIn">
@@ -176,6 +177,10 @@
   <action id="NavBar-navigate">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="NewFile">
+    <keyboard-shortcut first-keystroke="shift meta n" />
+  </action>
+  <action id="NewScratchFile" />
   <action id="NextEditorTab" />
   <action id="NextProjectWindow">
     <keyboard-shortcut first-keystroke="meta back_quote" />
@@ -196,6 +201,7 @@
   <action id="ProjectViewEditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="PyExecuteCellAction" />
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="f1" />
     <keyboard-shortcut first-keystroke="ctrl j" />
