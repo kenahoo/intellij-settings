@@ -8,6 +8,7 @@
       <mapping pattern="CentOS-R" type="Dockerfile" />
       <mapping pattern="Ubuntu-R-dev" type="Dockerfile" />
       <mapping pattern="Ubuntu-R-build" type="Dockerfile" />
+      <mapping pattern="Ubuntu-R-multi" type="Dockerfile" />
       <mapping pattern="Ubuntu-Python" type="Dockerfile" />
       <mapping pattern="CentOS-Python-common" type="Dockerfile" />
       <mapping pattern="Ubuntu-R-common" type="Dockerfile" />
