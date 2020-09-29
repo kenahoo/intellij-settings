@@ -38,39 +38,13 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
-    <library name="Python 3.7 (degradation_model) interpreter library">
-      <CLASSES>
-        <root url="file://$USER_HOME$/git/dispatcher/degradation_model/venv/lib/python3.7" />
-        <root url="file://$USER_HOME$/git/dispatcher/degradation_model/venv/lib/python3.7/lib-dynload" />
-        <root url="file:///usr/local/Cellar/python@3.7/3.7.8_1/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
-        <root url="file://$USER_HOME$/git/dispatcher/degradation_model/venv/lib/python3.7/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.2/python_stubs/-391693348" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.7" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/git/dispatcher/degradation_model/venv/lib/python3.7" />
-        <root url="file://$USER_HOME$/git/dispatcher/degradation_model/venv/lib/python3.7/lib-dynload" />
-        <root url="file:///usr/local/Cellar/python@3.7/3.7.8_1/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
-        <root url="file://$USER_HOME$/git/dispatcher/degradation_model/venv/lib/python3.7/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.2/python_stubs/-391693348" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.7" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
     <library name="Python 3.7 (dispatcher-agents/venv) interpreter library">
       <CLASSES>
+        <root url="file://$USER_HOME$/git/dispatcher/dispatcher-agents/venv/lib/python3.7" />
+        <root url="file://$USER_HOME$/git/dispatcher/dispatcher-agents/venv/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/miniconda3/lib/python3.7" />
         <root url="file://$USER_HOME$/git/dispatcher/dispatcher-agents/venv/lib/python3.7/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.1/python_stubs/-266141664" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.2/python_stubs/-266141664" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.7" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
@@ -80,8 +54,11 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$USER_HOME$/git/dispatcher/dispatcher-agents/venv/lib/python3.7" />
+        <root url="file://$USER_HOME$/git/dispatcher/dispatcher-agents/venv/lib/python3.7/lib-dynload" />
+        <root url="file://$USER_HOME$/miniconda3/lib/python3.7" />
         <root url="file://$USER_HOME$/git/dispatcher/dispatcher-agents/venv/lib/python3.7/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.1/python_stubs/-266141664" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.2/python_stubs/-266141664" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.7" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
@@ -163,37 +140,6 @@
       <CLASSES />
       <JAVADOC />
       <SOURCES />
-    </library>
-    <library name="Python 3.7 (server275-site) interpreter library">
-      <CLASSES>
-        <root url="file:///usr/local/Cellar/python/3.7.7/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
-        <root url="file:///usr/local/Cellar/python/3.7.7/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/src/SIA/server275-site/venv/lib/python3.7/site-packages" />
-        <root url="jar://$USER_HOME$/src/SIA/server275-site/venv/lib/python3.7/site-packages/setuptools-40.8.0-py3.7.egg!/" />
-        <root url="file://$USER_HOME$/src/SIA/server275-site/venv/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg" />
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.1/python_stubs/178312340" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.7" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file:///usr/local/Cellar/python/3.7.7/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
-        <root url="file:///usr/local/Cellar/python/3.7.7/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/src/SIA/server275-site/venv/lib/python3.7/site-packages" />
-        <root url="jar://$USER_HOME$/src/SIA/server275-site/venv/lib/python3.7/site-packages/setuptools-40.8.0-py3.7.egg!/" />
-        <root url="file://$USER_HOME$/src/SIA/server275-site/venv/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg" />
-        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.1/python_stubs/178312340" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.7" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
     </library>
     <library name="Python 3.7 (venv) interpreter library">
       <CLASSES>
