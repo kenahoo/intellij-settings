@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="CentOS-R-common" type="Dockerfile" />
       <mapping pattern="CentOS-Python-dev" type="Dockerfile" />
+      <mapping pattern="Ubuntu-R-multi-common" type="Dockerfile" />
       <mapping pattern="CentOS-Python" type="Dockerfile" />
       <mapping pattern="CentOS-R" type="Dockerfile" />
       <mapping pattern="Ubuntu-R-dev" type="Dockerfile" />
