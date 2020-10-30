@@ -23,8 +23,8 @@
       <mapping pattern="Ubuntu-Python-dev" type="Dockerfile" />
       <mapping pattern="CentOS-R-dev" type="Dockerfile" />
       <mapping pattern="Debian-R" type="Dockerfile" />
-      <mapping pattern="CentOS-R-build" type="Dockerfile" />
       <mapping pattern="CentOS-R-bare" type="Dockerfile" />
+      <mapping pattern="CentOS-R-build" type="Dockerfile" />
       <mapping pattern="conda-R" type="Dockerfile" />
       <mapping pattern="Ubuntu-Python-build" type="Dockerfile" />
       <mapping pattern="Ubuntu-PyJulia-build" type="Dockerfile" />
@@ -38,7 +38,9 @@
       <mapping ext="profile" type="PHP" />
       <mapping ext="theme" type="PHP" />
       <mapping ext="in" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
