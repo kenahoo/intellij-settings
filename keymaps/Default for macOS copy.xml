@@ -5,7 +5,6 @@
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="AutoIndentLines">
     <keyboard-shortcut first-keystroke="meta i" />
-    <keyboard-shortcut first-keystroke="tab" />
   </action>
   <action id="ChangesView.AddUnversioned">
     <keyboard-shortcut first-keystroke="shift meta a" />
