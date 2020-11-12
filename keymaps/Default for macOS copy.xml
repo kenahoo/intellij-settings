@@ -181,9 +181,6 @@
   </action>
   <action id="NewScratchFile" />
   <action id="NextEditorTab" />
-  <action id="NextProjectWindow">
-    <keyboard-shortcut first-keystroke="meta back_quote" />
-  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl page_down" />
   </action>
