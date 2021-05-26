@@ -867,6 +867,11 @@
         <option name="FOREGROUND" value="7c7fbf" />
       </value>
     </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="KOTLIN_LABEL">
       <value />
     </option>
@@ -10770,8 +10775,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
+        <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="3f3c41" />
       </value>
     </option>
     <option name="METHOD_CALL_ATTRIBUTES">
@@ -11046,6 +11051,7 @@
         <option name="FOREGROUND" value="65031b" />
       </value>
     </option>
+    <option name="R_NAMED_ARGUMENT" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="SASS_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="6d9cbe" />
