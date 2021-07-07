@@ -200,7 +200,7 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </SOURCES>
     </library>
-    <library name="Python 3.7 (optos-common/venv) interpreter library">
+    <library name="Python 3.7 (optos-common) interpreter library">
       <CLASSES>
         <root url="file://$USER_HOME$/git/dispatcher/optos-common/venv/lib/python3.7" />
         <root url="file://$USER_HOME$/git/dispatcher/optos-common/venv/lib/python3.7/lib-dynload" />
