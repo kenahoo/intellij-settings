@@ -717,7 +717,7 @@
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
-        <option name="EFFECT_COLOR" value="55550c" />
+        <option name="EFFECT_COLOR" value="3c3f41" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT">
@@ -10977,7 +10977,6 @@
       </value>
     </option>
     <option name="PY.KEYWORD_ARGUMENT" baseAttributes="DEFAULT_PARAMETER" />
-    <option name="PY.STRING.U" baseAttributes="DEFAULT_STRING" />
     <option name="REGEXP.BRACES">
       <value>
         <option name="FOREGROUND" value="e8bf6a" />
