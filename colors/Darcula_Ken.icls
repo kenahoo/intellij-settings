@@ -10884,11 +10884,20 @@
         <option name="FOREGROUND" value="cc7832" />
       </value>
     </option>
+    <option name="PERL_DQ_STRING" baseAttributes="DEFAULT_STRING" />
+    <option name="PERL_LABEL" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="PERL_NUMBER" baseAttributes="DEFAULT_NUMBER" />
     <option name="PERL_REGEX_TOKEN">
       <value>
         <option name="BACKGROUND" value="2e0309" />
       </value>
     </option>
+    <option name="PERL_SCALAR" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="PERL_SQ_STRING" baseAttributes="DEFAULT_STRING" />
+    <option name="PERL_SUB" baseAttributes="DEFAULT_FUNCTION_CALL" />
+    <option name="PERL_SUB_BUILTIN" baseAttributes="PERL_SUB" />
+    <option name="PERL_SUB_DEFINITION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="PERL_XSUB" baseAttributes="PERL_SUB" />
     <option name="PHP_CONSTANT">
       <value>
         <option name="FOREGROUND" value="9876aa" />
@@ -11238,7 +11247,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="a9b7c6" />
-        <option name="BACKGROUND" value="1f1f1f" />
+        <option name="BACKGROUND" value="141414" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
