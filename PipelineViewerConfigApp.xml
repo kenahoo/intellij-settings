@@ -1,0 +1,9 @@
+<application>
+  <component name="PipelineViewerConfigApp">
+    <option name="ignoredRemotes">
+      <list>
+        <option value="git@gitlab.windlogics.com:internal/polecat/hero/hero-service.git" />
+      </list>
+    </option>
+  </component>
+</application>
