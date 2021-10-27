@@ -1,11 +1,64 @@
 <application>
   <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*.egg-info;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;venv-*;vssver.scc;vssver2.scc" />
     <extensionMap>
-      <mapping ext="space.kts" type="Kotlin" />
+      <mapping pattern="foo" type="AUTO_DETECTED" />
+      <mapping pattern="Alpine-R*" type="Dockerfile" />
+      <mapping pattern="Debian-R" type="Dockerfile" />
+      <mapping pattern="CentOS-R-bare" type="Dockerfile" />
+      <mapping pattern="Ubuntu-Python-common" type="Dockerfile" />
+      <mapping pattern="CentOS-Python-common" type="Dockerfile" />
+      <mapping pattern="Ubuntu-R-multi" type="Dockerfile" />
+      <mapping pattern="CentOS-R-build-bare" type="Dockerfile" />
+      <mapping pattern="Ubuntu-PyJulia-build" type="Dockerfile" />
+      <mapping pattern="Alpine-R" type="Dockerfile" />
+      <mapping pattern="conda-R" type="Dockerfile" />
+      <mapping pattern="Ubuntu-R-multi-dev" type="Dockerfile" />
+      <mapping pattern="conda-R-test" type="Dockerfile" />
+      <mapping pattern="Ubuntu-Python-dev" type="Dockerfile" />
+      <mapping pattern="CentOS-R-common" type="Dockerfile" />
+      <mapping pattern="CentOS-R-multi" type="Dockerfile" />
+      <mapping pattern="Ubuntu-R-multi-build" type="Dockerfile" />
+      <mapping pattern="Ubuntu-R-common" type="Dockerfile" />
+      <mapping pattern="Ubuntu-Python-build" type="Dockerfile" />
+      <mapping pattern="CentOS-Python" type="Dockerfile" />
+      <mapping pattern="CentOS-R-build" type="Dockerfile" />
+      <mapping pattern="CentOS-Python-build" type="Dockerfile" />
+      <mapping pattern="Ubuntu-Python" type="Dockerfile" />
+      <mapping pattern="Ubuntu-R" type="Dockerfile" />
+      <mapping pattern="Ubuntu-R-build" type="Dockerfile" />
+      <mapping pattern="CentOS-Python-dev" type="Dockerfile" />
+      <mapping pattern="Ubuntu-R-multi-common" type="Dockerfile" />
+      <mapping pattern="CentOS-R" type="Dockerfile" />
+      <mapping pattern="Ubuntu-R-dev" type="Dockerfile" />
+      <mapping pattern="CentOS-R-dev" type="Dockerfile" />
+      <mapping ext="info" type="Ini" />
+      <mapping ext="install" type="PHP" />
+      <mapping ext="test" type="PHP" />
+      <mapping ext="engine" type="PHP" />
+      <mapping ext="profile" type="PHP" />
+      <mapping ext="theme" type="PHP" />
+      <mapping ext="in" type="PLAIN_TEXT" />
+      <mapping ext="pkl" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="pl" approved="true" type="textmate" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
+      <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="yaml" approved="true" type="YAML_EX" />
+      <removed_mapping ext="yml" approved="true" type="YAML_EX" />
+      <mapping ext="engine" type="PHP" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="install" type="PHP" />
       <mapping ext="main.kts" type="Kotlin" />
-      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
-      <removed_mapping ext="psd" approved="true" type="Image" />
+      <mapping ext="profile" type="PHP" />
+      <mapping ext="test" type="PHP" />
+      <mapping ext="theme" type="PHP" />
     </extensionMap>
   </component>
 </application>

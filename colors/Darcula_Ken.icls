@@ -27,6 +27,7 @@
     <option name="METHOD_SEPARATORS_COLOR" value="4d4d4d" />
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
     <option name="NOTIFICATION_BACKGROUND" value="5c5c42" />
+    <option name="READONLY_BACKGROUND" value="473b3b" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
     <option name="RIGHT_MARGIN_COLOR" value="323232" />
@@ -458,7 +459,7 @@
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="3850ff" />
+        <option name="FOREGROUND" value="516aff" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
@@ -716,7 +717,7 @@
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
-        <option name="EFFECT_COLOR" value="55550c" />
+        <option name="EFFECT_COLOR" value="3c3f41" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT">
@@ -864,6 +865,11 @@
     <option name="KOTLIN_ANNOTATION">
       <value>
         <option name="FOREGROUND" value="7c7fbf" />
+      </value>
+    </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="KOTLIN_LABEL">
@@ -10980,7 +10986,6 @@
       </value>
     </option>
     <option name="PY.KEYWORD_ARGUMENT" baseAttributes="DEFAULT_PARAMETER" />
-    <option name="PY.STRING.U" baseAttributes="DEFAULT_STRING" />
     <option name="REGEXP.BRACES">
       <value>
         <option name="FOREGROUND" value="e8bf6a" />
@@ -11054,6 +11059,7 @@
         <option name="FOREGROUND" value="65031b" />
       </value>
     </option>
+    <option name="R_NAMED_ARGUMENT" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="SASS_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="6d9cbe" />
@@ -11247,7 +11253,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="a9b7c6" />
-        <option name="BACKGROUND" value="141414" />
+        <option name="BACKGROUND" value="161616" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>

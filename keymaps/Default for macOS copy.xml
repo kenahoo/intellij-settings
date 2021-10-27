@@ -5,7 +5,6 @@
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="AutoIndentLines">
     <keyboard-shortcut first-keystroke="meta i" />
-    <keyboard-shortcut first-keystroke="tab" />
   </action>
   <action id="ChangesView.AddUnversioned">
     <keyboard-shortcut first-keystroke="shift meta a" />
@@ -182,9 +181,6 @@
   </action>
   <action id="NewScratchFile" />
   <action id="NextEditorTab" />
-  <action id="NextProjectWindow">
-    <keyboard-shortcut first-keystroke="meta back_quote" />
-  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl page_down" />
   </action>
@@ -207,6 +203,9 @@
     <keyboard-shortcut first-keystroke="ctrl j" />
     <mouse-shortcut keystroke="control button2" />
     <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="RInsertPipeAction">
+    <keyboard-shortcut first-keystroke="alt period" />
   </action>
   <action id="RemoteHostView.EditSource">
     <keyboard-shortcut first-keystroke="f4" />
