@@ -4,9 +4,9 @@
     <extensionMap>
       <mapping pattern="Alpine-Python" type="AUTO_DETECTED" />
       <mapping pattern="foo" type="AUTO_DETECTED" />
-      <mapping pattern="Alpine-R*" type="Dockerfile" />
-      <mapping pattern="Alpine-Python*" type="Dockerfile" />
       <mapping pattern="Alpine-Python.*" type="Dockerfile" />
+      <mapping pattern="Alpine-Python*" type="Dockerfile" />
+      <mapping pattern="Alpine-R*" type="Dockerfile" />
       <mapping pattern="Debian-R" type="Dockerfile" />
       <mapping pattern="CentOS-R-bare" type="Dockerfile" />
       <mapping pattern="Ubuntu-Python-common" type="Dockerfile" />
