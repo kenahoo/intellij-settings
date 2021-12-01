@@ -5,5 +5,16 @@
         <option value="git@gitlab.windlogics.com:internal/polecat/hero/hero-service.git" />
       </list>
     </option>
+    <option name="mappings">
+      <list>
+        <Mapping>
+          <option name="gitlabProjectId" value="1656" />
+          <option name="host" value="https://gitlab.windlogics.com" />
+          <option name="projectName" value="gitlab-utils" />
+          <option name="projectPath" value="internal/com/scripts/gitlab-utils" />
+          <option name="remote" value="git@gitlab.windlogics.com:internal/com/scripts/gitlab-utils.git" />
+        </Mapping>
+      </list>
+    </option>
   </component>
 </application>
