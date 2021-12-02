@@ -21,6 +21,13 @@
           <option name="projectPath" value="internal/optos/optos-algorithms" />
           <option name="remote" value="git@gitlab.windlogics.com:internal/optos/optos-algorithms.git" />
         </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="1461" />
+          <option name="host" value="https://gitlab.windlogics.com" />
+          <option name="projectName" value="optos-caiso" />
+          <option name="projectPath" value="internal/optos/optos-caiso" />
+          <option name="remote" value="git@gitlab.windlogics.com:internal/optos/optos-caiso.git" />
+        </Mapping>
       </list>
     </option>
   </component>
