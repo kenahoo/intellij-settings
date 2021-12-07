@@ -10,6 +10,7 @@
     <entry key="BSP.experimental.feature.enabled" value="false" />
     <entry key="BSP.system.in.process" value="true" />
     <entry key="debugger.watches.in.variables" value="false" />
+    <entry key="pants.system.in.process" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
