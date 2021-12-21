@@ -5,5 +5,46 @@
         <option value="git@gitlab.windlogics.com:internal/polecat/hero/hero-service.git" />
       </list>
     </option>
+    <option name="mappings">
+      <list>
+        <Mapping>
+          <option name="gitlabProjectId" value="1656" />
+          <option name="host" value="https://gitlab.windlogics.com" />
+          <option name="projectName" value="gitlab-utils" />
+          <option name="projectPath" value="internal/com/scripts/gitlab-utils" />
+          <option name="remote" value="git@gitlab.windlogics.com:internal/com/scripts/gitlab-utils.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="1792" />
+          <option name="host" value="https://gitlab.windlogics.com" />
+          <option name="projectName" value="optos-algorithms" />
+          <option name="projectPath" value="internal/optos/optos-algorithms" />
+          <option name="remote" value="git@gitlab.windlogics.com:internal/optos/optos-algorithms.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="1461" />
+          <option name="host" value="https://gitlab.windlogics.com" />
+          <option name="projectName" value="optos-caiso" />
+          <option name="projectPath" value="internal/optos/optos-caiso" />
+          <option name="remote" value="git@gitlab.windlogics.com:internal/optos/optos-caiso.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="1277" />
+          <option name="host" value="https://gitlab.windlogics.com" />
+          <option name="projectName" value="optos-common" />
+          <option name="projectPath" value="internal/optos/optos-common" />
+          <option name="remote" value="git@gitlab.windlogics.com:internal/optos/optos-common.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="393" />
+          <option name="host" value="https://gitlab.windlogics.com" />
+          <option name="projectName" value="emsat-simulator" />
+          <option name="projectPath" value="internal/polecat/ampere/emsat-simulator" />
+          <option name="remote" value="git@gitlab.windlogics.com:internal/polecat/ampere/emsat-simulator.git" />
+        </Mapping>
+      </list>
+    </option>
+    <option name="showNotificationForWatchedBranches" value="false" />
+    <option name="urlOpenerCommand" value="" />
   </component>
 </application>
