@@ -42,6 +42,13 @@
           <option name="projectPath" value="internal/polecat/ampere/emsat-simulator" />
           <option name="remote" value="git@gitlab.windlogics.com:internal/polecat/ampere/emsat-simulator.git" />
         </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="1753" />
+          <option name="host" value="https://gitlab.windlogics.com" />
+          <option name="projectName" value="optos-framework" />
+          <option name="projectPath" value="internal/optos/optos-framework" />
+          <option name="remote" value="git@gitlab.windlogics.com:internal/optos/optos-framework.git" />
+        </Mapping>
       </list>
     </option>
     <option name="showNotificationForWatchedBranches" value="false" />
