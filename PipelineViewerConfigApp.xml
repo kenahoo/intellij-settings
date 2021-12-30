@@ -49,6 +49,13 @@
           <option name="projectPath" value="internal/optos/optos-framework" />
           <option name="remote" value="git@gitlab.windlogics.com:internal/optos/optos-framework.git" />
         </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="17" />
+          <option name="host" value="https://gitlab.windlogics.com" />
+          <option name="projectName" value="package-scripts" />
+          <option name="projectPath" value="internal/devops/scripts/package-scripts" />
+          <option name="remote" value="git@gitlab.windlogics.com:internal/devops/scripts/package-scripts.git" />
+        </Mapping>
       </list>
     </option>
     <option name="showNotificationForWatchedBranches" value="false" />
