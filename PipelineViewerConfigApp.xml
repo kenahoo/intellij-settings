@@ -63,6 +63,13 @@
           <option name="projectPath" value="internal/polecat/ampere/emsat-simulator" />
           <option name="remote" value="git@gitlab.windlogics.com:internal/polecat/ampere/emsat-simulator.git" />
         </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="1824" />
+          <option name="host" value="https://gitlab.windlogics.com" />
+          <option name="projectName" value="Optos Load FX" />
+          <option name="projectPath" value="internal/optos/optos-load-fx" />
+          <option name="remote" value="git@gitlab.windlogics.com:internal/optos/optos-load-fx.git" />
+        </Mapping>
       </list>
     </option>
     <option name="showConnectionErrors" value="false" />
