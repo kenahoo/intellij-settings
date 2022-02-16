@@ -3,6 +3,7 @@
     <option name="ignoredRemotes">
       <list>
         <option value="git@gitlab.windlogics.com:internal/polecat/hero/hero-service.git" />
+        <option value="git@gitlab.windlogics.com:internal/optos/optos-models/model-blueprint.git" />
       </list>
     </option>
     <option name="mappings">
