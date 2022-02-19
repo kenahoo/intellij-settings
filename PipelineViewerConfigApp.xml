@@ -3,16 +3,31 @@
     <option name="ignoredRemotes">
       <list>
         <option value="git@gitlab.windlogics.com:internal/polecat/hero/hero-service.git" />
+        <option value="git@gitlab.windlogics.com:internal/optos/optos-models/model-blueprint.git" />
       </list>
     </option>
     <option name="mappings">
       <list>
+        <Mapping>
+          <option name="gitlabProjectId" value="1048" />
+          <option name="host" value="https://gitlab.windlogics.com" />
+          <option name="projectName" value="Rush Springs Simulations" />
+          <option name="projectPath" value="internal/bacon/rush-springs-simulations" />
+          <option name="remote" value="git@gitlab.windlogics.com:internal/bacon/rush-springs-simulations.git" />
+        </Mapping>
         <Mapping>
           <option name="gitlabProjectId" value="1656" />
           <option name="host" value="https://gitlab.windlogics.com" />
           <option name="projectName" value="gitlab-utils" />
           <option name="projectPath" value="internal/com/scripts/gitlab-utils" />
           <option name="remote" value="git@gitlab.windlogics.com:internal/com/scripts/gitlab-utils.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="17" />
+          <option name="host" value="https://gitlab.windlogics.com" />
+          <option name="projectName" value="package-scripts" />
+          <option name="projectPath" value="internal/devops/scripts/package-scripts" />
+          <option name="remote" value="git@gitlab.windlogics.com:internal/devops/scripts/package-scripts.git" />
         </Mapping>
         <Mapping>
           <option name="gitlabProjectId" value="1792" />
@@ -36,14 +51,29 @@
           <option name="remote" value="git@gitlab.windlogics.com:internal/optos/optos-common.git" />
         </Mapping>
         <Mapping>
+          <option name="gitlabProjectId" value="1753" />
+          <option name="host" value="https://gitlab.windlogics.com" />
+          <option name="projectName" value="optos-framework" />
+          <option name="projectPath" value="internal/optos/optos-framework" />
+          <option name="remote" value="git@gitlab.windlogics.com:internal/optos/optos-framework.git" />
+        </Mapping>
+        <Mapping>
           <option name="gitlabProjectId" value="393" />
           <option name="host" value="https://gitlab.windlogics.com" />
           <option name="projectName" value="emsat-simulator" />
           <option name="projectPath" value="internal/polecat/ampere/emsat-simulator" />
           <option name="remote" value="git@gitlab.windlogics.com:internal/polecat/ampere/emsat-simulator.git" />
         </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="1824" />
+          <option name="host" value="https://gitlab.windlogics.com" />
+          <option name="projectName" value="Optos Load FX" />
+          <option name="projectPath" value="internal/optos/optos-load-fx" />
+          <option name="remote" value="git@gitlab.windlogics.com:internal/optos/optos-load-fx.git" />
+        </Mapping>
       </list>
     </option>
+    <option name="showConnectionErrors" value="false" />
     <option name="showNotificationForWatchedBranches" value="false" />
     <option name="urlOpenerCommand" value="" />
   </component>
