@@ -71,6 +71,13 @@
           <option name="projectPath" value="internal/optos/optos-load-fx" />
           <option name="remote" value="git@gitlab.windlogics.com:internal/optos/optos-load-fx.git" />
         </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="1342" />
+          <option name="host" value="https://gitlab.windlogics.com" />
+          <option name="projectName" value="degradation_model" />
+          <option name="projectPath" value="internal/optos/degradation_model" />
+          <option name="remote" value="git@gitlab.windlogics.com:internal/optos/degradation_model.git" />
+        </Mapping>
       </list>
     </option>
     <option name="showConnectionErrors" value="false" />
