@@ -142,6 +142,7 @@
   <action id="GraphDatabaseActionGroup.ExecuteQuery" />
   <action id="Groovy.Shell.Execute" />
   <action id="GuiDesigner.ExpandSelection" />
+  <action id="Images.Editor.ToggleGrid" />
   <action id="Images.Editor.ZoomIn">
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
@@ -263,6 +264,9 @@
   </action>
   <action id="com.r4intellij.actions.EvalSelectionOrExprAction">
     <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
+  <action id="editRunConfigurations">
+    <keyboard-shortcut first-keystroke="meta quote" />
   </action>
   <action id="openAssertEqualsDiff" />
 </keymap>
