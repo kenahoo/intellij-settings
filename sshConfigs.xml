@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="3.140.245.24" id="f0536be7-38db-4880-b162-5396214de29f" keyPath="$USER_HOME$/.ssh/bitnami-aws-918006777586.pem" port="22" nameFormat="DESCRIPTIVE" username="bitnami" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</application>
